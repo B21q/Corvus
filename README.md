@@ -16,8 +16,8 @@
   <br />
   <br />
   <br />
-   <img align="center" src="20230715112341_1.png" width="500" title="hover text">
-   <img align="center" src="20230715112505_1.png" width="500" title="hover text">
+   <img align="center" src="20230715112341_1.png" width="700" title="hover text">
+   <img align="center" src="20230715112505_1.png" width="700" title="hover text">
 </div>
   <br />
   <br />
