@@ -12,7 +12,7 @@
 </span>
   </div>
 
-<div>
+<div align="center">
   <br />
   <br />
   <br />
